@@ -1,6 +1,8 @@
 Practica1_SDGEIUB
 =================
 
+- Grupo 4 del Miercoles -
+
 Este repositorio contiene los .jar de la practica 1 de Software Distribuït.
 
 Crear .jar en netbeans:

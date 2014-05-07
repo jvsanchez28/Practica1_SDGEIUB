@@ -3,7 +3,11 @@ Practica1_SDGEIUB
 
 - Grupo 4 del Miercoles -
 
-Este repositorio contiene los .jar de la practica 1 de Software Distribuït.
+Este repositorio contiene los .jar de la practica 1 de Software Distribuït. 
+Consiste en la implementación de un Domino Cliente Servidor (por terminal). El Cliente (usuario) juega contra el Servidor
+una o mas partidas de dominó.
+
+Ejecutar primero el servidor y luego los clientes que quieran jugar una partida.
 
 Crear .jar en netbeans:
 	1.- Botón secundario en el proyecto, ir a propiedades.
